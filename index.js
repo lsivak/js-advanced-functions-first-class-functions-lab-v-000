@@ -1,4 +1,4 @@
-function returnFirstTwoDrivers(drivers) {
+(function returnFirstTwoDrivers(drivers) {
   debugger
   const myFunc = function () {
     return function () {
