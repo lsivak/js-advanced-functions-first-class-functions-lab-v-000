@@ -1,6 +1,8 @@
-
+function returnFirstTwoDrivers(drivers) {
   debugger
-  const myFunc = function returnFirstTwoDrivers(drivers) {
-    return function () { drivers[0], drivers[1]
+  const myFunc = function (drivers) {
+    return function () {
+      return drivers[0], drivers[1]
+    }
   }
 }
