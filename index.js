@@ -1,5 +1,5 @@
-function returnFirstTwoDrivers() {
-  const myFunc = function (drivers) {
-    return drivers[0], drivers[1]
+function returnFirstTwoDrivers(drivers) {
+  const myFunc = function () {
+    return [0], [1]
   }
 }
