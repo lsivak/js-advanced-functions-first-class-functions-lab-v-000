@@ -16,6 +16,6 @@ const fareDoubler = function (createFareMultiplier) {
     debugger
 
 
-    return (createFareMultiplier(2))
+    return (createFareMultiplier)*2
 
 }
