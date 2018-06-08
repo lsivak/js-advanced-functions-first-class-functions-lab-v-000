@@ -7,5 +7,5 @@ const returnFirstTwoDrivers = function (drivers) {
     }
 const selectingDrivers = [
 function (){returnFirstTwoDrivers();}
-function ()returnLastTwoDrivers();
+function ()returnLastTwoDrivers()
 ]
