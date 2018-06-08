@@ -13,9 +13,8 @@ const createFareMultiplier = function (fare) {
   }
 }
 const fareDoubler = function (createFareMultiplier) {
-    debugger
-
-
     return (createFareMultiplier)*2
-
+}
+const fareDoubler = function (createFareMultiplier) {
+    return (createFareMultiplier)*3
 }
