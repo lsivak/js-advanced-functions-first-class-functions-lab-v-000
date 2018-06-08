@@ -6,9 +6,8 @@ const returnFirstTwoDrivers = function (drivers) {
       return [drivers[drivers.length - 2], drivers[drivers.length - 1]]
     }
 const selectingDrivers = [
-function (){returnFirstTwoDrivers
-function (){returnLastTwoDrivers
-}
-}
+function (){returnFirstTwoDrivers}
+function (){returnLastTwoDrivers}
+
 
 ]
